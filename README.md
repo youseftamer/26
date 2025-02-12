@@ -3,8 +3,8 @@
 # Blog App
 
 This is a simple blog application where users can read blog posts, and admins can manage content.
-<img href="https://raw.githubusercontent.com/jooexploit/blog-app/refs/heads/main/image.png" alt="web-sample">
-
+<img src="https://raw.githubusercontent.com/jooexploit/blog-app/refs/heads/main/image.png" alt="web-sample">
+---
 ## Features
 
 - **Normal User**: Can view blog posts.
