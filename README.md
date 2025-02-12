@@ -3,6 +3,7 @@
 # Blog App
 
 This is a simple blog application where users can read blog posts, and admins can manage content.
+<img href="" alt="web-sample">
 
 ## Features
 
